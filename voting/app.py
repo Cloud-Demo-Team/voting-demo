@@ -11,7 +11,7 @@ import sys
 
 optionA = "Futbol"
 optionB = "Soccer"
-name = optionA + " VS " + optionB
+name = optionA + " Vs. " + optionB
 
 redis = Redis(host="redis", db=0)
 app = Flask(__name__)
