@@ -8,7 +8,7 @@ import socket
 import logging
 import signal
 import sys
-import gzip
+
 
 optionA = "A"
 optionB = "B"
