@@ -2,4 +2,5 @@
 
 Voting app for Docker Cloud demos
 
-[![Deploy to Docker Cloud](https://files.cloud.docker.com/images/deploy-to-dockercloud.svg)](https://cloud.docker.com/stack/deploy/)
+To see the docker cloud build process:
+https://cloud.docker.com/app/byondrak/repository/list
